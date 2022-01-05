@@ -1,4 +1,4 @@
 # CRUD-Simple
 React JS
 
-use #npm start to run this project
+Use 'npm start' to run this project
